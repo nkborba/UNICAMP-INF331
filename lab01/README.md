@@ -1,13 +1,6 @@
 # lab01
 ## Nicholas Borba
 
-Esse repositório contém as atividades:
-
-- Foodmart
-- Google Play Store
-- Composição para Recomendação
-- Composição de Pedido
-
 ## Imagem do Projeto
 ![Associação - Vinho, queijo e chocolate](imagens/FoodMart.png)
 
