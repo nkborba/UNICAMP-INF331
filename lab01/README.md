@@ -24,10 +24,10 @@ Esse repositório contém as atividades:
 # Projeto de Composição de Componentes para Recomendação
 ![Recomendação de produtos](imagens/productRecomendation.png)
 
-## Projeto de Composição de Componentes para Pedido
+# Projeto de Composição de Componentes para Pedido
 
-# Diagrama de Componentes
+## Diagrama de Componentes
 ![Sistema de pedido](imagens/orderComponent.png)
 
-# Diagrama de Interfaces
+## Diagrama de Interfaces
 ![Sistema de pedido](imagens/orderInterface.png)
