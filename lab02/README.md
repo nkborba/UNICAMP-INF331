@@ -1,6 +1,8 @@
 # Lab 02
 ## Aluno: Nicholas Borba
 
+### Tarefa sobre catálogo de componentes
+
 ### Web Components 1
 ~~~HTML
 <dcc-trigger label="Mundo" action="message/mundo/politica" value="Política Mundial"></dcc-trigger>
