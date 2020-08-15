@@ -1,51 +1,16 @@
-# Lab 02
-## Aluno: Nicholas Borba
+# component2learn
+Ambiente de aprendizagem sobre o tema componentes de software.
 
-### Tarefa sobre catálogo de componentes
+Todos os exemplos no diretório `notebook` são preparados para o ambiente Jupyter.
 
-### Web Components 1
-~~~HTML
-<dcc-trigger label="Mundo" action="message/mundo/politica" value="Política Mundial"></dcc-trigger>
-<dcc-trigger label="Brasil P" action="message/brasil/politica" value="Política Nacional"></dcc-trigger>
-<dcc-trigger label="Brasil E" action="message/brasil/esporte" value="Esportes Brasil"></dcc-trigger>
-<dcc-trigger label="Bahia" action="message/bahia/esporte" value="Bahia Esporte"></dcc-trigger>
+## Acionando os Notebooks via Binder
 
-<dcc-lively-talk duration="0" character="doctor" speech="Veja isso: ">
-    <subscribe-dcc topic="message/+/politica"></subscribe-dcc>
-</dcc-lively-talk>
-<dcc-lively-talk duration="0" character="nurse" speech="E isso também é importante: ">
-    <subscribe-dcc topic="message/brasil/#"></subscribe-dcc>
-</dcc-lively-talk>
-<dcc-lively-talk duration="0" character="patient" speech="Mas você já viu essa de ">
-    <subscribe-dcc topic="message/#"></subscribe-dcc>
-</dcc-lively-talk>
-~~~
+* Última versão testada e estável:
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/component2learn/v1.0.0)
 
-### Web Components 2
-~~~HTML
-<dcc-trigger label="Ver notícias" action="next/rss"></dcc-trigger>
+* Última versão disponível:
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santanche/component2learn/master)
 
-<dcc-rss publish="rss/science" source="https://www.wired.com/category/science/feed">
-  <subscribe-dcc topic="next/rss" role="step" ></subscribe-dcc>
-</dcc-rss>
+## Git tutorial
 
-<dcc-rss publish="rss/design" source="https://www.wired.com/category/design/feed">
-  <subscribe-dcc topic="next/rss" role="step" ></subscribe-dcc>
-</dcc-rss>
-
-<dcc-aggregator publish="aggregate/science" quantity="3">
-  <subscribe-dcc topic="rss/science"></subscribe-dcc>
-</dcc-aggregator>
-
-<dcc-lively-talk duration="0" character="doctor" speech="Aqui estarão as noticias agregadas de Ciências">
-    <subscribe-dcc topic="aggregate/science"></subscribe-dcc>
-</dcc-lively-talk>
-
-<dcc-lively-talk duration="0" character="nurse" speech="Aqui estará alguma notícia de Ciência">
-    <subscribe-dcc topic="rss/science"></subscribe-dcc>
-</dcc-lively-talk>
-
-<dcc-lively-talk duration="0" character="patient" speech="E aqui, alguma sobre Design">
-    <subscribe-dcc topic="rss/design"></subscribe-dcc>
-</dcc-lively-talk>
-~~~
+Não sabe git? Esse [guia interativo](https://learngitbranching.js.org/) vai te ajudar! Demora meia hora para fazer, mas é divertido e no final você vai saber os essenciais do git!
