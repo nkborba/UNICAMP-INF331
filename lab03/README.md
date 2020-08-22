@@ -12,7 +12,7 @@
 
 ## Tarefa 2 - Diagrama do Leilão
 
-[![Diagrama do Leilão](images/leilao.png)
+[![Diagrama do Leilão](images/diagrama_leilao.png)
 
 ## Tarefa 3 - MIT App Inevntor - MarketPlace
 
