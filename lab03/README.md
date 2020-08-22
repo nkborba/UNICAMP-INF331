@@ -2,7 +2,7 @@
 ## Aluno: Nicholas Borba
 
 # Modelo para Apresentação do Lab03 - Model-View-Controller
-* [Tarefa 1 - Diagrama Pedido]()
+* [Tarefa 1 - Diagrama Pedido](/diagrama_pedido.png)
 * [Tarefa 2 - Diagrama Leilão]()
 * [Tarefa 3 - MIT App Inventor]() 
 
