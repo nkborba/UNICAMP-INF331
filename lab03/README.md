@@ -2,8 +2,8 @@
 ## Aluno: Nicholas Borba
 
 # Modelo para Apresentação do Lab03 - Model-View-Controller
-* [Tarefa 1 - Diagrama Pedido]()
-* [Tarefa 2 - Diagrama Leilão]()
+* [Tarefa 1 - Diagrama Pedido](images/diagrama_pedido.png)
+* [Tarefa 2 - Diagrama Leilão](images/diagrama_leilao.png)
 * [Tarefa 3 - MIT App Inventor]() 
 
 ## Tarefa 1 - Diagrama de Pedido
@@ -21,3 +21,7 @@
 ### Tela 3 - Segundo produto selecionado.
 ### Tela 4 - Compra de um dos produtos efetiva.
 ### Tela 5 - Diagrama de blocos do aplicativo.
+
+## Tarefa 4
+
+https://github.com/inf331-equipe7
