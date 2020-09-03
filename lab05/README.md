@@ -15,10 +15,11 @@ TEXT
 > Na implementação abaixo, faço o consumo de uma API de nomes aleatórios e utilizo seu resultado para nomear o dinossauro(a).
 > Link do código: https://codepen.io/nkborba/pen/vYGevQO
 
+## HTML
 ~~~ HTML
 <div id="root"></div>
 ~~~
-
+## JS
 ~~~ JS
 class Barra extends React.Component {
   render() {
