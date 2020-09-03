@@ -47,7 +47,7 @@ class RandomName extends React.Component {
   render() {
     const { pessoa } = this.state
     if (this.state.loading) {
-      return <div>loading...</div>;
+      return "";
     }
     return (pessoa.name.title+" "+pessoa.name.first);
   }
