@@ -5,7 +5,7 @@
 > No link do Google Drive modelo ou no diretório resources/ você encontrará um modelo para resolver a tarefa: 
 > - Escolha um conjunto de componentes do laboratório passado e os represente na forma de componentes com sub-comopnentes.
 
-TEXT
+![](images/01.png)
 
 # Tarefa 2
 
